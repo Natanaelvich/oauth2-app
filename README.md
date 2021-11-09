@@ -15,6 +15,13 @@
 
 authenticate oauth2 example app made with react native with expo 
 
+## 🖼 ScreenShots
+
+<p align='center'>
+<img src='https://user-images.githubusercontent.com/52014318/141008305-1465a502-131b-44d9-9278-ca4d5be2e50a.png' width='275' />
+<img src='https://user-images.githubusercontent.com/52014318/141008309-b2c5a599-6d46-4ed3-8f2b-b1db97364b0a.png' width='275' />
+</p>
+
 ## ✨ Technologies
 
 This project was developed with the following technologies:
@@ -26,6 +33,7 @@ This project was developed with the following technologies:
 ## 🚀 How to run
 
 - Clone the repository and access the folder;
+- Create a .env file and copy variables from .env.example;
 - Install dependencies with `yarn`;
 - Start the server with `yarn start`;
 
